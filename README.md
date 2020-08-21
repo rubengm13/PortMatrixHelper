@@ -32,9 +32,11 @@ With this template, the 'Interface' and 'description' keys will map to a value a
 
 
 ### CLI Options
+```
    -h, --help            show this help message and exit
    -v, --verbose         Enable Verbose Output
    -i INPUT_FILE, --input_file=INPUT_FILE
                          Input file name of excel sheet
    -o OUTPUT_FILE, --output=OUTPUT_FILE
                          Output file name of excel sheet
+```
