@@ -69,6 +69,6 @@ Options:
 ```
 ### Sample CLI Command
 ```
-python MyPortMatrix.py -i PortMatrix1.xlsx -o test -gcv
+python PortMatrixHelper.py -i MyPortMatrix.xlsx -o test -gcv
 ```
 This Command will read the 'MyPortMatrix.xlsx' workbook. After reading the device information and ignoring the sheets identified it will run the script with Config Generator, utilizing the templates, and will also login to the devices and check connections via lldp and cdp. Some show version information will be gathered. After completing the script it will output the information to a new spreadsheet, 'test.xlsx'.
