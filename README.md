@@ -3,11 +3,12 @@
 
  It also Logs in to the devices and check the CDP and LLDP neighbors to check your connections, and ensure they are connected as defined.
 
+ A .EXE file can be provided to simplify the need of library requirements.
+
 # Getting Started
 ## Software Prerequisites
 * Microsoft Excel XLSX Editor
 * Python Module - openpyxl
-A .EXE file can be provided to simplify the need of library requirements.
 
 ## Work Book Setup
 PortMatrixHelper utilizes a Port Matrix Excel Work Book, within this Spreadsheet a few requirements need to be Met so that the script runs without issue.
